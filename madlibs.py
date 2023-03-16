@@ -1,4 +1,4 @@
-# string concatenation (aka hot to put strings together)
+# string concatenation (aka how to put strings together)
 
 # a few ways to do this
 # course = "Python"
